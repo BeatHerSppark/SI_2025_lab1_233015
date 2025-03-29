@@ -1,0 +1,51 @@
+13.
+git fetch origin
+Зема било какви промени на Github серверот направени од последното барање кон него.
+
+14.
+git checkout 3-list-tasks-sorted-by-name
+Се префрла на гранката за првиот issue.
+
+15.
+Имплементација на код во Java.
+
+16.
+git add SI2025Lab1Main.java
+git commit -m "Added feature n"
+Со add командата се додава датотеката во staged, и потоа се извршува commit.
+
+17.
+git push
+Се синхронизира локалната гранка со Github гранката.
+
+18.
+Направени Pull requests на Github.
+
+19.
+Повторени чекори 14-18.
+
+20.
+Успешен merge на commit-ите за тасковите 3 и 8.
+
+21.
+Да, двете issues се во Done фазата.
+
+22.
+Најпрво се префрлам на master 
+git checkout master
+Потоа ги земам локално промените кои ги направив на Github
+git pull
+Го спојувам последниот таск со master гранката
+git merge 9-mark-all-tasks-in-a-category-as-completed
+
+23.
+git push
+
+24.
+И pull request е затворен, и issue е во Done фазата.
+
+25.
+Додадени.
+
+26.
+Синхронизирана.

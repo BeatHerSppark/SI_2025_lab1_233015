@@ -1,0 +1,15 @@
+*   33eabca (HEAD -> master, origin/master) Merge branch '9-mark-all-tasks-in-a-category-as-completed'
+|\
+| * fc7d906 (origin/9-mark-all-tasks-in-a-category-as-completed, 9-mark-all-tasks-in-a-category-as-completed) Added feature 9
+* |   5b0aa41 Merge pull request #11 from BeatHerSppark/8-mark-a-task-as-completed-by-name
+|\ \
+| * | 1ef7c41 (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Added feature 8
+| |/
+* |   942220f Merge pull request #10 from BeatHerSppark/3-list-tasks-sorted-by-name
+|\ \
+| |/
+|/|
+| * f781c86 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Added feature 3
+|/
+* 78d1792 Add starter code
+* 5a6e9c6 Initial commit
