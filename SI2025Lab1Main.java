@@ -106,6 +106,9 @@ class TaskManager {
     // 8. Mark a task as completed by name
     public void markTaskCompleted(String name) {
         // TODO: Implement completion logic
+        tasks.stream()
+            .filter(task -> Objects.equals(task.getName(), name))
+            .forEach(Task::complete);
     }
 
     // 9. Mark all tasks in a category as completed
